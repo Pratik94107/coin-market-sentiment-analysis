@@ -11,10 +11,15 @@ The objective is to identify whether market sentiment influences trading behavio
 ## Datasets
 
 ### 1. Fear & Greed Index
+- fear_greed_index.csv
+  
 - Date
 - Classification (Fear / Greed)
 
+
 ### 2. Hyperliquid Historical Trading Data
+- historical_data.csv
+  
 - Account
 - Coin
 - Side
