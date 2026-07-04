@@ -1,4 +1,4 @@
-# Bitcoin Market Sentiment vs Trader Performance Analysis
+# Coin Market Sentiment vs Trader Performance Analysis
 
 ## Overview
 
@@ -10,7 +10,7 @@ The objective is to identify whether market sentiment influences trading behavio
 
 ## Datasets
 
-### 1. Bitcoin Fear & Greed Index
+### 1. Fear & Greed Index
 - Date
 - Classification (Fear / Greed)
 
